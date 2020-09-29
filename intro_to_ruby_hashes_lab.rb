@@ -8,7 +8,7 @@ end
 
 def monopoly
 	monopoly = {}
-	monopoly[:railroad] = {}
+	monopoly[:railroads] = {}
 
 end
 
